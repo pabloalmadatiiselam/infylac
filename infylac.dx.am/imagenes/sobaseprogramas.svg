@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="180"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sobaseprogramas.svg"
+   inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+   inkscape:export-xdpi="91"
+   inkscape:export-ydpi="91">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4791">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4793" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4795" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5392">
+      <stop
+         style="stop-color:#11110f;stop-opacity:0.93827158;"
+         offset="0"
+         id="stop5394" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5396" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723"
+       id="linearGradient4731"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28727277,0,0,0.3048457,89.856272,493.24509)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4791"
+       id="linearGradient4797"
+       x1="264.5625"
+       y1="203.02036"
+       x2="411.02734"
+       y2="203.02036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-3"
+       id="linearGradient4731-6"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2257576,0,0,0.23786005,576.32898,205.26933)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-3">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-7" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-8" />
+    </linearGradient>
+    <linearGradient
+       y2="152.3622"
+       x2="341.39999"
+       y1="212.21819"
+       x1="332.96094"
+       gradientTransform="matrix(0.2257576,0,0,0.23786005,574.7342,246.64798)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3860"
+       xlink:href="#linearGradient4723-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4791-3"
+       id="linearGradient4797-2"
+       x1="264.5625"
+       y1="203.02036"
+       x2="411.02734"
+       y2="203.02036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4791-3">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4793-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4795-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-2"
+       id="linearGradient4731-8"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.23786005,87.310822,509.81479)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-2">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-77" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-27"
+       id="linearGradient4731-4"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.23786005,87.310822,509.81479)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-27">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-1" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-2" />
+    </linearGradient>
+    <linearGradient
+       y2="152.3622"
+       x2="341.39999"
+       y1="212.21819"
+       x1="332.96094"
+       gradientTransform="matrix(0.29151519,0,0,0.23786005,90.934218,673.92072)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3945-7"
+       xlink:href="#linearGradient4723-27"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-0"
+       id="linearGradient4731-66"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.23786005,87.310822,509.81479)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-0">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-79" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-21"
+       id="linearGradient4731-7"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.23786005,87.310822,509.81479)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-21">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-0" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-08"
+       id="linearGradient4731-1"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.3048457,87.310822,499.60872)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-08">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-5" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-93" />
+    </linearGradient>
+    <linearGradient
+       y2="152.3622"
+       x2="341.39999"
+       y1="212.21819"
+       x1="332.96094"
+       gradientTransform="matrix(0.2936364,0,0,0.3048457,88.86149,551.89647)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4115"
+       xlink:href="#linearGradient4723-08"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4791-0"
+       id="linearGradient4797-6"
+       x1="264.5625"
+       y1="203.02036"
+       x2="411.02734"
+       y2="203.02036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4791-0">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4793-7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4795-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723-7"
+       id="linearGradient4731-2"
+       x1="332.96094"
+       y1="212.21819"
+       x2="341.39999"
+       y2="152.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30848489,0,0,0.3048457,87.310822,499.60872)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723-7">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4725-4" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4727-90" />
+    </linearGradient>
+    <linearGradient
+       y2="152.3622"
+       x2="341.39999"
+       y1="212.21819"
+       x1="332.96094"
+       gradientTransform="matrix(0.29575762,0,0,0.27972608,87.697855,613.90555)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4229"
+       xlink:href="#linearGradient4723-7"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4791-5"
+       id="linearGradient4797-0"
+       x1="264.5625"
+       y1="203.02036"
+       x2="411.02734"
+       y2="203.02036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4791-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4793-73" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4795-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4791-6"
+       id="linearGradient4797-4"
+       x1="264.5625"
+       y1="203.02036"
+       x2="411.02734"
+       y2="203.02036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4791-6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4793-9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4795-6" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1"
+     inkscape:cx="245.68574"
+     inkscape:cy="102.74962"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="959"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-nodes="false"
+     fit-margin-top="9"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="1"
+     objecttolerance="10000"
+     width="131.1px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.83807,-537.61943)"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 189.61034,571.99257 0,26.6293"
+       id="path3080"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3117"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3119"><rect
+           id="rect3121"
+           width="277.14285"
+           height="42.857143"
+           x="208.57143"
+           y="343.79074" /></flowRegion><flowPara
+         id="flowPara3123" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3129"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3131"><rect
+           id="rect3133"
+           width="300"
+           height="45.714287"
+           x="185.71428"
+           y="489.50504" /></flowRegion><flowPara
+         id="flowPara3135" /></flowRoot>    <rect
+       style="fill:url(#linearGradient4731);fill-opacity:1;stroke:#000000;stroke-width:2.80000019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94537814;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989-2-3"
+       width="123.1169"
+       height="33.097534"
+       x="124.32895"
+       y="539.69202"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.36069052,0,0,0.32439878,64.029093,489.4816)"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"><flowRegion
+         id="flowRegion5436"
+         style="fill:url(#linearGradient4797);fill-opacity:1"><rect
+           id="rect5438"
+           width="297.14285"
+           height="48.57143"
+           x="188.57143"
+           y="178.07646"
+           style="text-align:center;text-anchor:middle;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5440"
+         style="fill:#660319;fill-opacity:1">Usuario</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5514"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion5516"><rect
+           id="rect5518"
+           width="745.71429"
+           height="74.285713"
+           x="-54.285713"
+           y="-173.3521" /></flowRegion><flowPara
+         id="flowPara5520" /></flowRoot>    <rect
+       style="fill:url(#linearGradient3860);fill-opacity:1;stroke:#000000;stroke-width:2.79999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94537814;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989-2-3-0"
+       width="96.753258"
+       height="25.824806"
+       x="601.82507"
+       y="282.88879" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434-4"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.36069052,0,0,0.32439878,386.5441,257.21442)"><flowRegion
+         id="flowRegion5436-3"
+         style="fill:url(#linearGradient4797-2);fill-opacity:1"><rect
+           id="rect5438-4"
+           width="297.14285"
+           height="48.57143"
+           x="188.57143"
+           y="178.07646"
+           style="text-align:center;text-anchor:middle;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5440-9"
+         style="fill:#660319;fill-opacity:1">Progamas de</flowPara><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3926" /><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3924" /><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3920">ll</flowPara><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3918">usuario</flowPara><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3922" /><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara3928" /></flowRoot>    <rect
+       style="fill:url(#linearGradient3945-7);fill-opacity:1;stroke:#000000;stroke-width:2.79999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94537814;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989-2-3-3"
+       width="124.93508"
+       height="25.824806"
+       x="125.91602"
+       y="710.16156"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 190.20171,632.45671 0,23.05278"
+       id="path3080-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 190.65625,672.74642 0,35.20059"
+       id="path3080-4"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient4115);fill-opacity:1;stroke:#000000;stroke-width:2.80000019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94537814;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2989-2-3-36"
+       width="125.84417"
+       height="33.097534"
+       x="124.09779"
+       y="598.34338"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#660319;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.36069052,0,0,0.32439878,52.907735,540.85079)"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"><flowRegion
+         id="flowRegion5436-4"
+         style="fill:url(#linearGradient4797-6);fill-opacity:1"><rect
+           id="rect5438-2"
+           width="375.27582"
+           height="115.82871"
+           x="188.57143"
+           y="178.07646"
+           style="text-align:center;text-anchor:middle;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5440-7"
+         style="fill:#660319;fill-opacity:1">Programas del </flowPara><flowPara
+         style="fill:#660319;fill-opacity:1"
+         id="flowPara4173">usuario</flowPara></flowRoot>    <rect
+       style="fill:url(#linearGradient4229);fill-opacity:1;stroke:#000000;stroke-width:2.80000019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.94537814;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect2989-2-3-6"
+       width="126.75327"
+       height="30.370262"
+       x="123.18871"
+       y="656.52521"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#660319;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.36069052,0,0,0.32439878,57.453193,598.1235)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion5436-1"
+         style="fill:url(#linearGradient4797-0);fill-opacity:1"><rect
+           id="rect5438-1"
+           width="347.55121"
+           height="104.61917"
+           x="188.57143"
+           y="178.07646"
+           style="text-align:center;text-anchor:middle;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5440-3"
+         style="fill:#660319;fill-opacity:1">Sistema Operativo</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5434-37"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#660319;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.36069052,0,0,0.32439878,67.453189,655.39625)"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"><flowRegion
+         id="flowRegion5436-11"
+         style="fill:url(#linearGradient4797-4);fill-opacity:1"><rect
+           id="rect5438-7"
+           width="297.14285"
+           height="48.57143"
+           x="188.57143"
+           y="178.07646"
+           style="text-align:center;text-anchor:middle;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5440-2"
+         style="fill:#660319;fill-opacity:1">Hardware</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3266"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3268"><rect
+           id="rect3270"
+           width="117.27273"
+           height="75.454544"
+           x="170.90909"
+           y="42.727272" /></flowRegion><flowPara
+         id="flowPara3272"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3274"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3276"><rect
+           id="rect3278"
+           width="103.63636"
+           height="80.909088"
+           x="162.72728"
+           y="50"
+           style="font-size:12px" /></flowRegion><flowPara
+         id="flowPara3280"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3282"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#010000;fill-opacity:0.14778137;stroke:#000000;stroke-width:0.5;stroke-miterlimit:3.9000001;stroke-opacity:1;stroke-dasharray:none;font-family:Serif;-inkscape-font-specification:Serif"
+       transform="translate(109.29261,536.71034)"><flowRegion
+         id="flowRegion3284"><rect
+           id="rect3286"
+           width="122.72727"
+           height="101.81818"
+           x="161.81818"
+           y="57.272728"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#010000;fill-opacity:0.14778137;stroke:#000000;stroke-width:0.5;stroke-miterlimit:3.9000001;stroke-opacity:1;stroke-dasharray:none;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#010000;fill-opacity:0.14778137;stroke:#000000;stroke-width:0.5;stroke-miterlimit:3.9000001;stroke-opacity:0.95378149;stroke-dasharray:none;font-family:Serif;-inkscape-font-specification:Serif"
+         id="flowPara4062" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4073"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#280b0b;fill-opacity:0;stroke:none;font-family:Sans"
+       transform="translate(113.83807,537.61943)"><flowRegion
+         id="flowRegion4075"><rect
+           id="rect4077"
+           width="104.54546"
+           height="80"
+           x="160"
+           y="60.909092"
+           style="font-size:12px;fill:#280b0b;fill-opacity:0" /></flowRegion><flowPara
+         id="flowPara4079" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4081"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0742656,0,0,1,81.83822,528.52852)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/sobaseprogramas.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion4083"><rect
+           id="rect4085"
+           width="77.151405"
+           height="79.090904"
+           x="160.90909"
+           y="61.81818"
+           style="font-size:12px" /></flowRegion><flowPara
+         id="flowPara4089"
+         style="font-size:10.61296749px">Relación entre Programas de usuario, Sistema Operativo y Hardware</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4093"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4095"><rect
+           id="rect4097"
+           width="72.727272"
+           height="79.090912"
+           x="152.72728"
+           y="58.18182" /></flowRegion><flowPara
+         id="flowPara4099"></flowPara></flowRoot>  </g>
+</svg>

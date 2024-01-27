@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="exonucleo.svg"
+   inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+   inkscape:export-xdpi="91"
+   inkscape:export-ydpi="91">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12322">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12324" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12326" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12314">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12316" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12318" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12306">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12308" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12310" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12298">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12300" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12302" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12290">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12292" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12294" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12282">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12284" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop12286" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3910"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3913"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3895"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3892"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3892-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3895-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12282"
+       id="linearGradient12288"
+       x1="227.16673"
+       y1="208.45874"
+       x2="342.79391"
+       y2="196.86218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12290"
+       id="linearGradient12296"
+       x1="212.58839"
+       y1="241.59094"
+       x2="396.9"
+       y2="243.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.85393258,0,0,0.5625,98.769663,264.47095)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12298"
+       id="linearGradient12304"
+       x1="384.4726"
+       y1="120.65024"
+       x2="511.9"
+       y2="120.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.82608696,-158,175.93255)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12306"
+       id="linearGradient12312"
+       x1="372.36469"
+       y1="158.69299"
+       x2="512.9"
+       y2="159.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.86956522,-88,137.28637)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12314"
+       id="linearGradient12320"
+       x1="483.72104"
+       y1="158.17477"
+       x2="665.4"
+       y2="158.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83146068,0,0,0.5625,-126.08988,109.28346)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12322"
+       id="linearGradient12328"
+       x1="373.46579"
+       y1="198.33636"
+       x2="514.4"
+       y2="199.86218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.86956522,-18,102.56898)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="423.78922"
+     inkscape:cy="769.74907"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-midpoints="false"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="959"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient12320);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect2985"
+       width="74"
+       height="18"
+       x="352"
+       y="189.36218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient12288);fill-opacity:1;stroke:#000000;stroke-width:3.58644438;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509804;stroke-dasharray:none;stroke-dashoffset:147.50999622"
+       id="path2987"
+       sodipodi:cx="317"
+       sodipodi:cy="196.86218"
+       sodipodi:rx="24"
+       sodipodi:ry="21.5"
+       d="m 315.63789,175.39684 a 24,21.5 0 1 1 -1.13305,0.0819"
+       sodipodi:start="4.6556039"
+       sodipodi:end="10.891421"
+       sodipodi:open="true"
+       transform="matrix(0.76664874,0.08003477,-0.07797462,0.78690424,165.82254,161.07953)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient12328);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect2989"
+       width="65"
+       height="20"
+       x="430"
+       y="266.36218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient12304);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect2989-1"
+       width="65"
+       height="19"
+       x="287.5"
+       y="265.86218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient12312);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect2989-7"
+       width="65"
+       height="20"
+       x="358.5"
+       y="265.86218"
+       inkscape:transform-center-x="-50"
+       inkscape:transform-center-y="114.78261"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient12296);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect2985-9"
+       width="76"
+       height="18"
+       x="360.5"
+       y="392.36218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12330"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion12332"><rect
+           id="rect12334"
+           width="143"
+           height="55"
+           x="76"
+           y="72.362183" /></flowRegion><flowPara
+         id="flowPara12336">Software</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(315,96.0392)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340"><rect
+           id="rect12342"
+           width="54"
+           height="15"
+           x="51"
+           y="94.362183"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara12344"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">software</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338-6"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0188786,0,0,0.9192429,316.53719,306.94856)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340-4"><rect
+           id="rect12342-8"
+           width="73.982872"
+           height="21"
+           x="51"
+           y="94.362183"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara12344-9"
+         style="font-size:12.39951992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Hardware</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338-6-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0188786,0,0,0.9192429,245.28899,181.4317)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340-4-7"><rect
+           id="rect12342-8-9"
+           width="51.409031"
+           height="16.648592"
+           x="51"
+           y="94.362183"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara12344-9-7"
+         style="font-size:12.39951992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Librería</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338-6-1-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0188786,0,0,0.9192429,315.19621,181.72615)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340-4-7-0"><rect
+           id="rect12342-8-9-6"
+           width="49.446091"
+           height="17.736444"
+           x="51"
+           y="94.362183"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara12344-9-7-2"
+         style="font-size:12.39951992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Librería</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338-6-1-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(1.0188786,0,0,0.9192429,386.19621,181.72615)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340-4-7-9"><rect
+           id="rect12342-8-9-8"
+           width="47.483147"
+           height="16.648592"
+           x="51"
+           y="94.362183"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara12344-9-7-8"
+         style="font-size:12.39951992px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Librería</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12338-6-1-1"
+       style="font-size:10.33293343px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(1.0188786,0,0,0.9192429,325.19621,246.72615)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion12340-4-7-5"><rect
+           id="rect12342-8-9-1"
+           width="41.594318"
+           height="16.648592"
+           x="51"
+           y="94.362183"
+           style="font-size:10.33293343px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara12344-9-7-5"
+         style="font-size:10.33293343px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Kernel</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(182,-103)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069"><rect
+           id="rect3071"
+           width="60"
+           height="19"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">LLamada</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(337.58398,-105.50018)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-3"><rect
+           id="rect3071-7"
+           width="60"
+           height="19"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-4"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">LLamada</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(267.58398,-104.50017)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-8"><rect
+           id="rect3071-2"
+           width="60"
+           height="19"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-6"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">LLamada</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3115"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(191,-13)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3117"><rect
+           id="rect3119"
+           width="76"
+           height="30"
+           x="119"
+           y="328.36218" /></flowRegion><flowPara
+         id="flowPara3123"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Solicitud del</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3127"> recurso</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(112.58398,53.499825)"><flowRegion
+         id="flowRegion3069-2"><rect
+           id="rect3071-9"
+           width="60"
+           height="19"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-3"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-90"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(193.58398,-138.50017)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-6"><rect
+           id="rect3071-3"
+           width="80"
+           height="33"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-9"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">entrega o no</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3183"> del recurso</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-8"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(292.58398,25.49983)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-0"><rect
+           id="rect3071-5"
+           width="96"
+           height="18"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-5"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Verifica recurso</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-8-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(205.71973,1.49983)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-0-2"><rect
+           id="rect3071-5-8"
+           width="87"
+           height="46"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-5-2"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">disponibilidad </flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3243">o no </flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3241">del recurso</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3067-90-1"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(318.98437,-140.34588)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3069-6-6"><rect
+           id="rect3071-3-7"
+           width="80"
+           height="33"
+           x="103"
+           y="348.36218" /></flowRegion><flowPara
+         id="flowPara3073-9-1"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">entrega o no</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3183-5"> del recurso</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend);display:inline"
+       d="m 382,207.36218 -56,59"
+       id="path3272"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 400,207.36218 61,57"
+       id="path3276"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 392,207.36218 0,59"
+       id="path3286"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 327,284.36218 55,42"
+       id="path3288"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 393,284.36218 0,40"
+       id="path3292"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 458,287.36218 -52,40"
+       id="path3294"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-end:url(#Arrow2Lend)"
+       d="m 393,357.36218 -1,35"
+       id="path3300"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3115-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(299.78271,-13.502282)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/exonucleo.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3117-3"><rect
+           id="rect3119-9"
+           width="76"
+           height="30"
+           x="119"
+           y="328.36218" /></flowRegion><flowPara
+         id="flowPara3123-3"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Solicitud del</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3127-0"> recurso</flowPara></flowRoot>  </g>
+</svg>

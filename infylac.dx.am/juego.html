@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Aventuras emocionales</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./estilos/style.css">
+  </head>
+  <body>
+    <h1>Aventuras emocionales</h1>
+    <p>Bienvenido a la emocionante aventura. En este juego tendrás que superar varios obstáculos emocionales para alcanzar la meta.</p>
+    <p>Los obstáculos emocionales que debes superar son: Rencor, Envidia, Egoísmo, Cansancio, incredulidad, vicios, competencia, División, Celos, Orgullo.</p>
+    <p>Selecciona una opción para empezar:</p>
+    <ul>
+      <li><a href="#" onclick="startGame('Rencor')">Rencor</a></li>
+      <li><a href="#" onclick="startGame('Envidia')">Envidia</a></li>
+      <li><a href="#" onclick="startGame('Egoísmo')">Egoísmo</a></li>
+      <li><a href="#" onclick="startGame('Cansancio')">Cansancio</a></li>
+      <li><a href="#" onclick="startGame('Incredulidad')">Incredulidad</a></li>
+      <li><a href="#" onclick="startGame('Vicios')">Vicios</a></li>
+      <li><a href="#" onclick="startGame('Competencia')">Competencia</a></li>
+      <li><a href="#" onclick="startGame('División')">División</a></li>
+      <li><a href="#" onclick="startGame('Celos')">Celos</a></li>
+      <li><a href="#" onclick="startGame('Orgullo')">Orgullo</a></li>
+    </ul>
+    <div id="game-container">
+      <div id="player"></div>
+    </div>
+    <button id="start-button">Comenzar</button>
+    <script src="./game.js"></script>
+  </body>
+</html>

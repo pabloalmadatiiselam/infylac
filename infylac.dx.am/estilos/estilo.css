@@ -1,0 +1,649 @@
+BODY{
+	font-family: verdana geneva arial helvetica sans-serif;
+	font-size: 120%;	
+	color: #000;
+	margin:20px auto;
+	/*max-width: 800px;*/
+	max-width: 1000px;
+	min-width: 320px;
+	background-color:#700000;	
+	
+}
+#contenedor{
+	width:930px;
+	margin:0 auto;
+	background: #fff;
+	/*padding:25px;*/
+	padding: 20px 20px 20px 20px;
+	border: 3px solid #660319;
+	border-radius: 7px;
+	box-shadow: -7px -9px 3px #c8c8c8;
+}
+
+/*
+#contenedor HEADER{
+	margin-bottom: 17px;
+}
+*/
+
+#cabecera{
+	/*text-align: center;*/	
+	/*margin-bottom: 130px;*/
+	overflow: hidden;	
+	border: 3px solid #c8c8c8;
+	padding: 10px;
+	/*border-radius: 7px;*/
+}
+
+#logo{
+	float:left;
+	/*background-color: #000;*/
+	width: 240px;
+	height: 94px;
+	/*-color: #00ff00;*/
+}
+
+#logo img{
+	width: 240px;
+	height: 94px;
+}
+
+#busblo{
+	float:right;
+	/*background-color: #990000;*/
+	width: 593px;
+	height: 53px;
+	/*padding: 0px;*/
+	/*width: 300px;*/
+}
+
+#buscador{
+	float: left;
+	/*background-color: #000;*/
+	width: 487px;
+	margin-bottom: 20px;
+
+}
+
+#blog{
+	float: left;
+	width: 83px;
+	margin-right:23px;
+	font-size: 100%;
+	/*background-color: #fff;*/
+
+
+}	
+
+#menu{
+	clear: both;
+	/*
+	background: -moz-radial-gradient(#ffffff,#b3b3b3);
+	background: -webkit-radial-gradient(#ffffff,#b3b3b3);
+	background: -ms-radial-gradient(#ffffff,#b3b3b3);
+	background: -o-radial-gradient(#ffffff,#b3b3b3);
+	*/
+	background-color: #c8c8c8;
+	margin: 0px;
+	padding: 0px;
+	/*width: 627px;*/
+	/*width:100%;*/
+	/*height:45px;*/
+	/*height: 37px;*/
+	height: auto;
+	/*font-size: 105%;*/
+	padding-top:7px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	border-radius:5px;
+	/*border: 1px #777;*/
+	margin-top: 20px;
+	overflow: hidden;
+	/*border: 1px solid #660319;*/	
+	border-bottom: 5px solid #660319;	
+	}
+
+SECTION{
+	/*float:left;*/
+	/*clear: both;*/
+	width:100%;
+	font-size: 120%;
+	margin-bottom: 20px;
+	padding: : 0px 20px;
+	/*border-top: 5px solid #660319;*/
+	/*border-bottom:5px solid #660319;*/		
+}
+
+ASIDE{
+	float:right;
+	width:24%;
+	background: -moz-radial-gradient(#ffffff,#b3b3b3);
+	background: -webkit-radial-gradient(#ffffff,#b3b3b3);
+	background: -ms-radial-gradient(#ffffff,#b3b3b3);
+	background: -o-radial-gradient(#ffffff,#b3b3b3);	
+	color:#660319;
+}
+
+#menu ul{
+    margin:0px;
+	padding:0px;
+	list-style: none;	
+	display:block;	
+	/*padding-top:20px;*/
+}
+#menu li{
+	float:left;/***campatibilidad con internet explorer 5***/
+	/*border-bottom:1px solid #660319;*/
+}
+#menu li a
+{
+    /*line-height: 40px;*/
+	/*display:block;*/
+	padding:0 10px;
+	border-right: 2px solid #660319;
+	/*border-right: 2px solid #fff;*/
+	/*font-family:arial, helvetica,sans-serif;*/
+	/*font-size:15px;*/
+	/*color:#fff;*/
+	/*font-weight: bold;*/
+	/*text-decoration: none;*/
+	font-size: 105%;
+}
+a.enlacenav, a.enlacenav:active, a.enlacenav:visited, a.enlacenav:focus, a.enlacenav:link{
+/*background: -webkit-radial-gradient(#ffffff,#b3b3b3);
+background: -moz-radial-gradient(#ffffff,#b3b3b3);
+background: -ms-radial-gradient(#ffffff,#b3b3b3);*/
+text-decoration: none;
+color: #660319;
+/*border-radius:5px;*/
+/*border: 1px solid #eee;*/
+/*border-right: 4px solid #660319;*/
+/*padding:3px 20px;*/
+/*font-size: 84%;*/
+/*font-size:105%;*/
+font-weight: bold;
+padding: 10%;
+}
+
+a.enlacenav:hover{
+	background: #660319;
+	color: #fff;
+	/*border-radius:5px;*/
+	border: 1px solid #660319;	
+}
+
+.titulos{
+	color: #660319;
+	background-color: #f0f0f0;
+}
+
+.descripcion{
+	font-size:93%;
+}
+
+#buscar, #imprimir, #contacto,#publicidad {
+	background: -moz-radial-gradient(#ffffff,#b3b3b3);
+	background: -webkit-radial-gradient(#ffffff,#b3b3b3);
+	background: -ms-radial-gradient(#ffffff,#b3b3b3);
+	background: -o-radial-gradient(#ffffff,#b3b3b3);
+	margin:5px 3.6% 7px 3.6%;
+	border-radius: 5px;
+	border:1px solid #666;
+	padding:2px 1% 3px 1%;
+}
+
+.titlat{
+	margin-top: 0px;
+	margin-bottom: 7px;
+	color:#660319;
+}
+
+#campotexto{
+	float:left;		
+	width: 367px;
+	height: 33px;
+	margin-right: 17px;
+}
+
+
+#botonbuscar{
+	/*margin-left:83%;*/
+	float: left;
+	/*background: #00ffff;*/
+	width:97px;
+	height:33; 
+
+}
+
+.campob{
+border-radius: 5px;
+width: 364px;
+height: 33px;
+border: 3px solid #660319;
+font-size: 20px;
+}
+
+.botonb{
+	border-radius: 5px;
+	width: 97px;
+	height: 40px;
+	background-color: #c8c8c8;
+	font-size: 77%;	
+	font-weight: bold;
+}
+
+.enlaceasi{
+	color:#0000ff;
+}
+
+.imagen{
+	text-align: center;
+}
+
+FOOTER{	
+	padding: 7px 12px 7px 7px;
+	border-radius: 7px;
+	background-color: #c8c8c8;
+	color:#660319;
+	border-top: 5px solid #660319;
+	/*border:2px solid #660319;*/
+}
+
+#contactos{
+	float: left;			
+}
+
+#contactos ul{
+	margin: 0px;
+	padding: 0px;
+	padding: 10px;
+	list-style:none;
+}
+
+#visitas{
+	float: right;	
+	/*background-color:#c8c8c8; */
+}
+#copy{
+	clear: both;
+	text-align: center;	
+}
+.titcon{
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 0px 0px 7px 0px;
+	padding:0px;
+}
+.titvis{
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 7px 0px 7px 0px;
+	padding:0px;
+}
+
+#menubar{
+	display: none;
+}
+
+#cabcel{
+	display: none;
+}
+#AUTOR{
+	width: 617px;
+	margin: 0 auto;
+}
+#AUT-DAT{
+float:left;
+margin-right:17px;
+}
+#AUT-FOT{
+float:left;	
+/*border:2px solid #660319;            
+border-radius: 5px;
+*/
+}
+.limpiar{
+	clear: both;
+}
+/*Este son estilos para un menu con la opcion autor
+El menu contiene datos generales y cv
+pero no salió. Lo dejo para mas adelante
+
+.menuaut{
+   width: 250px;
+   margin:0;
+   display:none;
+   position: absolute;
+   left: 100%;
+   top:-1px;
+}
+.menuaut{
+   display: block;
+}
+*/
+@media only screen and (max-width:768px) {
+	 BODY
+	 {
+		font-size:100%;
+		background-color: #fff;
+     }  
+     #contenedor{
+     	width: 700px;
+     }
+     #buscador{
+     	width: 400px;
+     }
+     #campotexto{
+     	width: 300px;
+     	height: 27px;
+     }
+     .campob{
+     	width: 300px;
+     	height: 27px;
+     }
+     #botonbuscar{
+     	width: 77px
+     }
+     .botonb {
+     	width: 74px;
+     	height: 35px;
+     }
+
+     #logo{
+     	width: 147px;
+     	height: 67px;
+     	margin-right: 7px;
+     }
+     #logo img{
+     	width: 147px;
+     	height: 67px;
+     }
+
+     #busblo{
+	float:right;
+	/*background-color: #990000;*/
+	width: 493px;
+	height: 43px;
+	/*padding: 0px;*/
+	/*width: 300px;*/
+    }	
+     #blog{
+     	margin-right: 10px;
+     }
+
+     #menu li a {
+     	padding: 0px 7px;
+     	font-size: 70%;
+     }
+     a.enlacenav{
+     	/*font-size: 33%;*/
+     }	
+}
+
+@media only screen and (max-width: 480px){
+
+	BODY{
+		font-size: 100%;
+		margin: 8% auto;
+	}
+	#contenedor{
+		/*
+		width: 427px;
+		padding: 4px;
+		*/
+		/*width: 97%;*/
+		/*width: 95%;*/
+		width: 95%;
+		border: 5px solid #660319;
+		padding: 1%;	
+	}
+	#cabecera{
+		display: none;
+	}
+	#cabcel{
+		display:block;
+
+	}
+	
+	#logblocel{	
+		overflow: hidden;
+		height: auto;
+		border:5px solid #c8c8c8;		
+	}
+   
+	#logocel{
+		float: left;
+		width: 75%;	
+     	/*width: 320px;
+     	height: 67px;*/     	
+     	/*margin-right: 7px;*/
+     }
+     #logocel img{
+     	/*
+     	width: 147px;
+     	height: 67px;
+     	*/
+		width: 75%;	
+     }
+     
+     #blogcel{
+	float: right;
+	width: 25%;	
+	/*width: 100px;	
+	margin-top:40px;*/
+	}
+	#buscadorcel{
+		clear: both;
+		width: 100%;
+		margin-top: 10px;		
+		margin-bottom: 10px;	
+		overflow: hidden;
+		height: auto;
+		/*background-color:#dd0000;	*/
+	}
+	#campotextocel{
+		float: left;
+		width: 67%;	
+		/*
+		width: 273px;
+		height: 41px;
+		*/		
+		margin-right: 3px;
+		*/*height: 70%;*/
+		/*background-color: #00ff00;*/
+	}
+	#campotextocel input{
+		width: 100%;
+		/*height: 67%;*/
+		/*
+		width: 273px;
+		height: 35px;
+		*/
+		font-size:;
+
+	}
+
+    #botonbuscarcel{
+    	float: right;
+    	width: 30%;
+    	/*
+    	width: 147px;
+    	height: 40px;
+    	background-color: #0000ff;*/
+    }
+    #botonbuscarcel input{
+    	width: 100%;
+    	/*
+    	width: 140px;
+    	height: 40px;    	
+    	margin-left: 7px;
+    	*/    	
+    } 
+    .campobcel{
+    	border: 2px solid #660319;
+    	border-radius: 5px;
+    	font-size: 120%;
+    }
+    .botonbcel{
+    	border-radius: 5px;
+    	font-size: 120%;
+    }
+
+#menubar
+	{
+	display: block;
+	clear: both;
+	width: 100%;
+	background-color: #c8c8c8;
+	overflow: hidden;
+	padding:10px;
+	/*margin-top:43px;*/
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	border-bottom: 5px solid #660319;
+	}
+#menutext{
+float: left;
+font-size:20px;
+color:#660319;
+font-weight:bold;
+}
+
+#bt-menu{
+display: block;
+padding-top:3px;	
+font-weight: bold;	
+text-decoration: none;	
+float: right;	
+}
+
+#menu{	
+/*margin: 0px auto 10px;*/
+clear: none;
+background: #c8c8c8;
+width: 100%;
+/*border-bottom: 3px solid #FFF;*/
+/*box-shadow: 0px 2px 10px #C9C9C9;*/
+/*border-radius: 5px 5px 0 0;*/
+height:auto;
+overflow:hidden;
+margin-top:0px;
+padding-top: 0px;
+padding-left:0px; 
+border-radius: 0px; 
+font-size: 100%;
+}
+ 
+ 
+#menu li a{
+	display: block;		
+	margin: 20px 0px 3px 5px;	
+	width: 100%;
+	font-size: 103%;		
+	/*padding-left: 11px;	
+	padding-bottom:3px; 
+	/*overflow: hidden;	*/
+} 
+a.enlacenav:hover{
+	padding: 7px;
+}
+
+#contactos{
+float: none;
+/*background-color: #990000;*/
+}
+
+#visitas{
+float: none;
+margin-left: 10px;	
+} 
+
+
+#copy{
+	text-align: center;
+	padding-left: 10px;
+	margin-top:17px; 
+}
+
+#cabcel{
+	overflow: hidden;
+	height: auto;		
+}
+.icon-menu{
+	background-image: url("../imagenes/bt-menu.png") no-repeat;
+}
+#menu li{
+	float:none;/***campatibilidad con internet explorer 5***/
+}
+.botonb{
+	background-color: #660319;
+	font-weight: bold;
+}
+#AUTOR{
+	width: 100%;
+	/*margin: 0 auto;*/
+}
+#AUT-DAT{
+float:none;
+margin-right:0px;*/
+}
+#AUT-FOT{
+width: 100%;
+text-align:center;
+float:none;	
+}
+BODY{
+	margin: 0px;	
+}
+#contenedor{
+	box-shadow: 0px;
+}
+}
+@media only screen and (max-width: 320px){	
+	/*
+	#contenedor{		
+		width: 267px;
+		padding: 2px;
+	}
+
+	#logblocel{		
+		width: 267px;
+	}
+	
+	#logocel{
+		width: 137px;
+		height: 57px;
+	}
+	#logocel img{
+		width: 137px;
+		height: 57px;
+	}
+	#blogcel{
+		width: 87px;
+	}
+	#buscadorcel{		
+		width: 267px;
+		height: 43px;
+	}
+	#campotextocel{		
+		width: 197px;
+		height: 43px;
+		margin-right:1px; 
+	}
+	#campotextocel input{
+    	width: 194px;
+    	height: 27px;
+    }
+    #botonbuscarcel{    	
+    	width: 67px;
+    	height: 27px;
+    }
+    #botonbuscarcel input{
+    	width: 60px;
+    	height: 33px;
+    	font-size: 83%;
+    }
+    */
+
+}

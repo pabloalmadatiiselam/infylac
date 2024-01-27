@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="microkernel.svg"
+   inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+   inkscape:export-xdpi="91"
+   inkscape:export-ydpi="91">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4191"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4193" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4195" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5111"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path5114"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4488">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4490" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4492" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4480">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4482" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4484" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4472">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4474" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4476" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4472"
+       id="linearGradient4478"
+       x1="104.54031"
+       y1="131.51602"
+       x2="370.4"
+       y2="131.86218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47183099,0,0,0.74285714,154.89436,48.407419)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4480"
+       id="linearGradient4486"
+       x1="175.24115"
+       y1="254.86218"
+       x2="397.40171"
+       y2="253.86218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488"
+       id="linearGradient4494"
+       x1="286.99063"
+       y1="238.86218"
+       x2="542.4"
+       y2="237.86218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.54700855,0,0,0.71428571,143.06838,65.960623)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4488-2"
+       id="linearGradient4494-6"
+       x1="365.60001"
+       y1="238.86218"
+       x2="542.40002"
+       y2="237.86218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-24,-4)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4488-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4490-5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4492-7" />
+    </linearGradient>
+    <linearGradient
+       y2="237.86218"
+       x2="542.40002"
+       y1="238.86218"
+       x1="321.9433"
+       gradientTransform="matrix(0.57264957,0,0,0.57142857,15.696583,193.94094)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6312"
+       xlink:href="#linearGradient4488-2"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-08"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-65"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-99"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-94"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-61"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5114-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="350"
+     inkscape:cy="800"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="959"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient4478);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect3755"
+       width="67"
+       height="26"
+       x="262"
+       y="133.36218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#linearGradient4486);fill-opacity:1;stroke:#000000;stroke-width:2.29785680999999986;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="path3759"
+       sodipodi:cx="336.5"
+       sodipodi:cy="253.86218"
+       sodipodi:rx="59.5"
+       sodipodi:ry="61.5"
+       d="m 333.1231,192.46131 a 59.5,61.5 0 1 1 -2.80902,0.23414"
+       sodipodi:start="4.6556039"
+       sodipodi:end="10.891421"
+       sodipodi:open="true"
+       transform="matrix(0.68068089,0,0,0.62602699,63.450912,77.937604)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient4494);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect3761"
+       width="64"
+       height="25"
+       x="375"
+       y="223.36218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3763"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3765"><rect
+           id="rect3767"
+           width="62"
+           height="21"
+           x="257"
+           y="74.362183" /></flowRegion><flowPara
+         id="flowPara3769" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3771"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3773"><rect
+           id="rect3775"
+           width="139"
+           height="16"
+           x="404"
+           y="50.362183" /></flowRegion><flowPara
+         id="flowPara3777" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3781"><rect
+           id="rect3783"
+           width="251"
+           height="45"
+           x="436"
+           y="28.362183" /></flowRegion><flowPara
+         id="flowPara3785" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3787"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3789"><rect
+           id="rect3791"
+           width="211"
+           height="43"
+           x="371"
+           y="383.36218" /></flowRegion><flowPara
+         id="flowPara3793">ssddffll</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3795"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3797"><rect
+           id="rect3799"
+           width="72"
+           height="43"
+           x="217"
+           y="386.36218" /></flowRegion><flowPara
+         id="flowPara3801">dff</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3803"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3805"><rect
+           id="rect3807"
+           width="131"
+           height="54"
+           x="255"
+           y="404.36218" /></flowRegion><flowPara
+         id="flowPara3809">Software</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3811"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(138,-212)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3813"><rect
+           id="rect3815"
+           width="73"
+           height="21"
+           x="132"
+           y="349.36218"
+           style="fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3817"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Software</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.86750729,0,0,1,262.24987,-122.99596)"
+       xml:space="preserve"
+       id="flowRoot3811-5"
+       style="font-size:12.88382053px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3813-5"><rect
+           id="rect3815-3"
+           width="87"
+           height="23"
+           x="132"
+           y="349.36218"
+           style="font-size:12.88382053px;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3817-1"
+         style="font-size:12.88382053px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Servidores</flowPara></flowRoot>    <flowRoot
+       transform="translate(143.62109,-139.99596)"
+       xml:space="preserve"
+       id="flowRoot3811-2"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3813-0"><rect
+           id="rect3815-0"
+           width="57"
+           height="19"
+           x="132"
+           y="349.36218"
+           style="font-size:12px;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3817-4"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Kernel</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 283,159.36218 1,0 0,39"
+       id="path5105"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 300,199.36218 6,0 0,-41"
+       id="path5557"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 373.00003,245.98718 0,-1.125 -42.00001,0"
+       id="path5929"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 332.00001,228.36218 43.00001,0"
+       id="path6113"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <rect
+       style="fill:url(#linearGradient6312);fill-opacity:1;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509803999999997;stroke-dasharray:none;stroke-dashoffset:147.50999622000000500"
+       id="rect3761-3"
+       width="67"
+       height="20"
+       x="258.5"
+       y="319.86218"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <flowRoot
+       transform="translate(131.43359,-26.99596)"
+       xml:space="preserve"
+       id="flowRoot3811-5-7"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#660319;fill-opacity:1;stroke:none;font-family:Sans"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion3813-5-2"><rect
+           id="rect3815-3-7"
+           width="87"
+           height="23"
+           x="132"
+           y="349.36218"
+           style="font-size:12px;fill:#660319;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3817-1-3"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#660319;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Hardware</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 282,276.36218 1,0 0,44"
+       id="path5105-2"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 298,320.36222 6,0 0,-45.00001"
+       id="path5557-8"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       transform="matrix(0.40839267,0.24620779,-0.20834986,0.4825991,289.05358,81.606887)"
+       sodipodi:type="arc"
+       style="fill:#660319;fill-opacity:1;stroke:#000000;stroke-width:5.61815023;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509804;stroke-dasharray:none;stroke-dashoffset:147.50999622"
+       id="path6410-1"
+       sodipodi:cx="153"
+       sodipodi:cy="235.36218"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       d="m 152.31895,223.38152 a 12,12 0 1 1 -0.56653,0.0457"
+       sodipodi:start="4.6556039"
+       sodipodi:end="10.891421"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       transform="matrix(0.44549892,0.28406938,-0.22728038,0.55681272,266.83187,71.346797)"
+       sodipodi:type="arc"
+       style="fill:#660319;fill-opacity:1;stroke:#000000;stroke-width:5.00780773;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509804;stroke-dasharray:none;stroke-dashoffset:147.50999622"
+       id="path6410-1-2"
+       sodipodi:cx="153"
+       sodipodi:cy="235.36218"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       d="m 152.31895,223.38152 a 12,12 0 1 1 -0.56653,0.0457"
+       sodipodi:start="4.6556039"
+       sodipodi:end="10.891421"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       transform="matrix(0.40839266,0.24620778,-0.20834986,0.4825991,290.5536,103.60671)"
+       sodipodi:type="arc"
+       style="fill:#660319;fill-opacity:1;stroke:#000000;stroke-width:5.61815023;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.94509804;stroke-dasharray:none;stroke-dashoffset:147.50999622"
+       id="path6410-1-0"
+       sodipodi:cx="153"
+       sodipodi:cy="235.36218"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       d="m 152.31895,223.38152 a 12,12 0 1 1 -0.56653,0.0457"
+       sodipodi:start="4.6556039"
+       sodipodi:end="10.891421"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 390.72742,221.82607 0,-67.06468 -60.54318,0"
+       id="path5557-7"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.5;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 329.96519,146.9746 83.67731,0 0,73.68219"
+       id="path5105-4"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend-61)"
+       d="m 327.99999,337.36213 76.77961,0 0,-89.99998"
+       id="path6619"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow1Lend-61)"
+       d="m 392.0127,250.36218 0,76.10486 -63.12777,0"
+       id="path6621"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8199"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(182,-29)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8201"><rect
+           id="rect8203"
+           width="41"
+           height="37"
+           x="56"
+           y="191.36218"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara8205"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">llamada</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3359"> al </flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara8207">sistema</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8199-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(96.397461,242.99983)"><flowRegion
+         id="flowRegion8201-9"><rect
+           id="rect8203-3"
+           width="114"
+           height="28"
+           x="56"
+           y="191.36218" /></flowRegion><flowPara
+         id="flowPara8205-4"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /><flowPara
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara8207-3" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8256"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(92,-133)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8258"><rect
+           id="rect8260"
+           width="68"
+           height="14"
+           x="141"
+           y="426.36218" /></flowRegion><flowPara
+         id="flowPara8262"
+         style="font-size:10px">instrucciones</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8256-3"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-43.078125,-123.50017)"><flowRegion
+         id="flowRegion8258-1"><rect
+           id="rect8260-3"
+           width="87"
+           height="15"
+           x="141"
+           y="426.36218" /></flowRegion><flowPara
+         id="flowPara8262-4">da<flowSpan
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+   id="flowSpan8266-6" /></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8301"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(189,-120)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8303"><rect
+           id="rect8305"
+           width="36"
+           height="15"
+           x="117"
+           y="409.36218"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara8307"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Datos</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8301-9"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(192.34375,-238.24205)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8303-9"><rect
+           id="rect8305-5"
+           width="33"
+           height="13"
+           x="117"
+           y="409.36218"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara8307-8"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Datos</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8301-9-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(408.25781,-252.68474)"><flowRegion
+         id="flowRegion8303-9-7"><rect
+           id="rect8305-5-0"
+           width="40"
+           height="14"
+           x="117"
+           y="409.36218" /></flowRegion><flowPara
+         id="flowPara8307-8-6"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Comunicacion con mensajes</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8363"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion8365"><rect
+           id="rect8367"
+           width="335"
+           height="94"
+           x="106"
+           y="410.36218" /></flowRegion><flowPara
+         id="flowPara8369" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8371"
+       style="font-size:9px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.93386935,0,0,1,264.69528,-175)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8373"><rect
+           id="rect8375"
+           width="48"
+           height="12"
+           x="71"
+           y="404.36218"
+           style="font-size:9px" /></flowRegion><flowPara
+         id="flowPara8379"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"> mensajes</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8256-6"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(184.92187,-117.50017)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8258-3"><rect
+           id="rect8260-0"
+           width="69"
+           height="13"
+           x="141"
+           y="426.36218"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara8262-1"><flowSpan
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+           id="flowSpan8266-0">instrucciones</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8301-0"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(289.25781,-143.68474)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8303-0"><rect
+           id="rect8305-9"
+           width="32"
+           height="14"
+           x="117"
+           y="409.36218"
+           style="font-size:10px" /></flowRegion><flowPara
+         id="flowPara8307-7"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Datos</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8301-93"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(234.25781,-275.68474)"
+       inkscape:export-filename="/home/pablo/Documentos/infylac/imagenes/microkernel.png"
+       inkscape:export-xdpi="91"
+       inkscape:export-ydpi="91"><flowRegion
+         id="flowRegion8303-1"><rect
+           id="rect8305-2"
+           width="32"
+           height="13"
+           x="117"
+           y="409.36218" /></flowRegion><flowPara
+         id="flowPara8307-6"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Datos</flowPara></flowRoot>  </g>
+</svg>

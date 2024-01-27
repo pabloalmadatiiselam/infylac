@@ -1,0 +1,59 @@
+BODY {
+    font-family: verdana, geneva, arial, helvetica, sans-serif;
+    font-size: 1.5rem; /* Cambiado a medida relativa */
+    color: #000;
+    margin: 0; /* Margen reseteado para ocupar toda la pantalla */
+    background-color: #700000;
+}
+
+#contenedor {
+    width: 100%; /* Cambiado para ocupar toda la pantalla */
+    padding: 2%; /* Cambiado a medida relativa */
+    box-sizing: border-box; /* Para incluir el padding en el ancho total */
+    background: #fff;
+    border: 3px solid #660319;
+    border-radius: 7px;
+    box-shadow: -7px -9px 3px #c8c8c8;
+    margin: 0 auto;
+}
+
+/* Resto de tu código ... */
+
+/* Estilo para hacer la imagen del logo responsive */
+#logo img {
+    width: 100%;
+    height: auto;
+}
+
+/* Estilos para hacer el menú más flexible */
+#menu ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+#menu li {
+    flex: 1;
+    text-align: center;
+}
+
+#menu li a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+    color: #660319;
+}
+
+a.enlacenav:hover {
+    background: #660319;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* Estilos para hacer el contenido flexible */
+SECTION {
+    width: 100%;
+    font-size: 120%; /* Cambiado a medida relativa */
+    margin-bottom: 20px;
+    padding: 0 2%; /* Cambiado a medida relativa */
+}
